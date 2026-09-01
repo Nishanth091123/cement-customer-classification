@@ -270,8 +270,22 @@ Weighted results:
 
 
 
-\## 🌐 Streamlit Application
 
+## 🌐 Live Streamlit Application
+
+The machine learning model is deployed as an interactive Streamlit web application.
+
+**Live Application:** PASTE-YOUR-STREAMLIT-LINK-HERE
+
+Users can enter customer details and get:
+
+* Predicted Customer Category
+* Prediction Probability
+* Automatically calculated Growth Percentage
+* Final Model Information
+
+**Final Model:** Tuned Decision Tree
+**Test Accuracy:** 92.50%
 
 
 The project includes a Streamlit web application where users can enter customer details and receive:
